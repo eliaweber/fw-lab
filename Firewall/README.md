@@ -248,8 +248,6 @@ Ab jetzt sollte das GUI verfügbar sein (IP der VM im Browser eingeben)
 
 ## 2.4 Erstellen von 2 Ubuntu Clients
 
-Falls du nicht weisst wie das geht -> [Anleitung zur Erstellung einer Linux VM](../../setup.md/#3-vm-aufsetzen)
-
 **IMPORTANT** -> Da du sicher mindestens eine VM hast, kannst du diese als [Client, welcher auf FW GUI zugreifft](#netzwerkplan) nutzen 
 Die Einzige Änderung die Vorgenommen werden muss -> Netzwerkkarte anpassen
 
