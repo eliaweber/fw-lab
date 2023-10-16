@@ -1,0 +1,52 @@
+<mxfile host="Electron" modified="2023-06-22T12:59:14.407Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.5.0 Chrome/112.0.5615.204 Electron/24.5.1 Safari/537.36" etag="f2qKnaHAEYTT90rJofcT" version="21.5.0" type="device">
+  <diagram name="Page-1" id="fEAICm4KGEWCgrGdMOP2">
+    <mxGraphModel dx="2462" dy="1003" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lYvc8LhtugjVBGxHZOZ0-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="77" y="488" width="380" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="lYvc8LhtugjVBGxHZOZ0-1" value="C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="77" y="288" width="380" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="lYvc8LhtugjVBGxHZOZ0-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.433;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lYvc8LhtugjVBGxHZOZ0-3" target="lYvc8LhtugjVBGxHZOZ0-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lYvc8LhtugjVBGxHZOZ0-3" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="537" y="438" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lYvc8LhtugjVBGxHZOZ0-4" value="" style="image;html=1;image=img/lib/clip_art/networking/Cloud_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="672" y="425" width="138" height="123" as="geometry" />
+        </mxCell>
+        <mxCell id="lYvc8LhtugjVBGxHZOZ0-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.01;entryY=0.397;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="lYvc8LhtugjVBGxHZOZ0-6" target="lYvc8LhtugjVBGxHZOZ0-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lYvc8LhtugjVBGxHZOZ0-6" value="Virtueller Client" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="227" y="348" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lYvc8LhtugjVBGxHZOZ0-7" value="Dein Laptop" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.laptop_1;" vertex="1" parent="1">
+          <mxGeometry x="18" y="248" width="91" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="lYvc8LhtugjVBGxHZOZ0-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="lYvc8LhtugjVBGxHZOZ0-8" target="lYvc8LhtugjVBGxHZOZ0-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lYvc8LhtugjVBGxHZOZ0-8" value="Einfacher Webserver" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
+          <mxGeometry x="236.63" y="538" width="60.74" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="lYvc8LhtugjVBGxHZOZ0-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lYvc8LhtugjVBGxHZOZ0-9" target="lYvc8LhtugjVBGxHZOZ0-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lYvc8LhtugjVBGxHZOZ0-9" value="Firewall" style="image;html=1;image=img/lib/clip_art/networking/Firewall-page1_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="427" y="438" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lYvc8LhtugjVBGxHZOZ0-15" value="Client-Netz" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="236.63" y="298" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lYvc8LhtugjVBGxHZOZ0-17" value="Server-Netz" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="237" y="488" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
